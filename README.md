@@ -6,13 +6,4 @@ This is a fun and fast-paced memory card game built using Vanilla JavaScript, HT
 3. Win animation with personalized score summary
 4. Fully responsive design
 5. Smooth card flip animations using CSS transforms
-# Game
-1. Game Start
-
-
-2. Matching in Progress
-
-
-
-3.Win Screen
 
